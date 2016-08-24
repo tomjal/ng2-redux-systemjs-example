@@ -21,7 +21,7 @@
     'rxjs':                       { defaultExtension: 'js' },
     'angular2-in-memory-web-api': { main: 'index.js', defaultExtension: 'js' },
     'ng2-redux':                  { main: 'lib/index.js', defaultExtension: 'js' },
-    'redux':                      { main: 'dist/redux.js', defaultExtension: 'js' },
+    'redux':                      { main: 'dist/redux.min.js', defaultExtension: 'js' },
   };
 
   var ngPackageNames = [
