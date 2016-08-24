@@ -1,4 +1,4 @@
-# Simple Ng2Redux with SystemJS Config
+# Simple Ng2-Redux with SystemJS Config
 
 This repo was cloned from the Angular2 quickstart example:
 https://github.com/angular/quickstart/blob/master/README.md
